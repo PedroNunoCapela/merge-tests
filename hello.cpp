@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout << "hello" << endl;
+    cout << "hello from local repo after 1st merge conflict" << endl;
 }
